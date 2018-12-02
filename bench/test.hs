@@ -15,7 +15,7 @@ import qualified Data.Map.Strict        as Map
 import           Data.Ord
 
 import           Gauge
-import           Scenario
+import           ScenarioW
 
 targetFile,outputFile :: String
 targetFile = "benchdata/in.txt"

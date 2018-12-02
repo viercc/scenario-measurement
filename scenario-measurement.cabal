@@ -13,7 +13,7 @@ cabal-version:       >=1.24
 
 library
   hs-source-dirs:      src
-  exposed-modules:     Scenario
+  exposed-modules:     Scenario, ScenarioW
   build-depends:       base         >=4.9 && <5,
                        mtl,
                        free,
